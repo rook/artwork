@@ -1,3 +1,3 @@
 # Rook Artwork
 
-![Rook Logo](logo/blue.png)
+![Rook Logo](logo/Rook_Logo-black.svg)
